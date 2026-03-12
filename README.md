@@ -13,7 +13,7 @@ Characterizing exoplanets around young, active stars requires advanced statistic
 ### Key Results
 - **SCALPELS Failure Analysis:** Demonstrated the "Parity Filter" effect, explaining why linear morphological filters fail to mitigate jitter in fast rotators.
 - **MDGP Modeling:** Applied a Multi-Dimensional Gaussian Process (MDGP) via `PyANETI` to recover a planetary semi-amplitude $K \approx 7.05$ m/s ($M_p \approx 23.1 \ M_\oplus$).
-- **The Density Puzzle:** Identified an 8-$\sigma$ tension between the photometric stellar density ($\sim 4.7$ g/cm³) and the spectroscopic G0V primary.
+- **The Density Puzzle:** Identified an $8\sigma$ tension between the photometric stellar density ($\sim 4.7$ g/cm³) and the spectroscopic G0V primary.
 - **Scenario B:** Proposed a host-star swap hypothesis (unresolved M-dwarf background star) as the most physically consistent solution.
 
 ## 📂 Repository Structure
