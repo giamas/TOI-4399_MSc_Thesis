@@ -1,4 +1,4 @@
-# Digging in the Stellar Noise: The Characterization of TOI-4399 b
+# Digging in the Stellar Noise: photometric and Doppler analysis of the young transiting system TOI-4399
 
 This repository contains the data analysis pipeline, custom Python code, and simulation results for the Master's Thesis in Physics by **Giampaolo Maschietti** (University of Turin, 2024/2025).
 
